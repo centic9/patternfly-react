@@ -3170,10 +3170,10 @@
   dependencies:
     "@types/node" ">= 8"
 
-"@patternfly/ast-helpers@^0.1.7":
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/@patternfly/ast-helpers/-/ast-helpers-0.1.7.tgz#e749ef8565405651cf67f551aa3802a5ba1f1c5d"
-  integrity sha512-XyRXAV9yT0fPqGVCk+lJV3uR1RQ04t3KYBdraXnsaGPLdLr3I43dqHv0mUY+GbRRGYmNHd8BYHqgamp0bTrb6g==
+"@patternfly/ast-helpers@^0.1.8":
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/@patternfly/ast-helpers/-/ast-helpers-0.1.8.tgz#1de02cbe0e6598d5e5b72d8534805bd85c4a3be4"
+  integrity sha512-1uq05VP7IHjaSiOx4W+LCa914AgFEhhUx0mdpQ1SR4E5BVWDFRmTzylZw6Hvg7ojF1QEoPxNTj0+Z39R05ep5w==
   dependencies:
     acorn "^8.4.1"
     acorn-class-fields "^1.0.0"
@@ -15693,17 +15693,17 @@ textextensions@^2.5.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/textextensions/-/textextensions-2.6.0.tgz#d7e4ab13fe54e32e08873be40d51b74229b00fc4"
 
-theme-patternfly-org@0.8.7:
-  version "0.8.7"
-  resolved "https://registry.yarnpkg.com/theme-patternfly-org/-/theme-patternfly-org-0.8.7.tgz#65caa6acae05f03fa3cbe62c76c7270fec2ac3d3"
-  integrity sha512-zKacWiFaQnCW6hlfh2yNielEnbM2EuPMMHsP3yKxd4FvAf93V/lwxYZwA2eyIZt9VU4hWoCHm6kPSi0PTVfW1g==
+theme-patternfly-org@0.8.8:
+  version "0.8.8"
+  resolved "https://registry.yarnpkg.com/theme-patternfly-org/-/theme-patternfly-org-0.8.8.tgz#fdad46cc59da22d0189de24044681e778ec9caf8"
+  integrity sha512-ftoz1sPNurEc6ZzNYEvfaoH6dS3nmrQg4BxYb99ggVy+H56onZJwQEgtUsvv3+h2e2/nPBLYJldyTPamoeXuVg==
   dependencies:
     "@babel/core" "^7.13.0"
     "@babel/plugin-proposal-class-properties" "^7.13.0"
     "@babel/plugin-transform-react-jsx" "^7.12.0"
     "@babel/preset-env" "^7.13.0"
     "@mdx-js/util" "^1.6.16"
-    "@patternfly/ast-helpers" "^0.1.7"
+    "@patternfly/ast-helpers" "^0.1.8"
     "@reach/router" "^1.3.4"
     autoprefixer "^9.8.6"
     babel-loader "^8.1.0"
